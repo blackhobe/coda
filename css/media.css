@@ -1,0 +1,8 @@
+@media(max-width: 991px;){
+	.service{
+		margin-bottom: 50px;
+	}
+	.service h2{
+		margin-top: 20px;
+	}
+}
